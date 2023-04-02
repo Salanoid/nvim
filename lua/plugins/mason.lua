@@ -8,6 +8,7 @@ return {
         "shfmt",
         "elixir-ls",
         "rust-analyzer",
+        "typescript-language-server",
       },
     },
   },
